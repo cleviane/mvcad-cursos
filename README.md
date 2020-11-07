@@ -1,2 +1,2 @@
 # mvcad-cursos
-Projeto que faz a inscrição de inscritos  do curso mvcad.
+Projeto que faz a gestão de inscrição de inscritos  do curso mvcad.
