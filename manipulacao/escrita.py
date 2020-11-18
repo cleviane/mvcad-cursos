@@ -1,0 +1,1 @@
+f = open('mvcad-exemplo-csv.csv', 'w')
